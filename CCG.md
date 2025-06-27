@@ -10,7 +10,7 @@ Comfora Community Guidelines *(or CCG)* is designed to protect community members
   - [Table of Contents](#table-of-contents)
   - [Acceptance of Community Guidelines](#acceptance-of-community-guidelines)
   - [Rules and Guidelines](#rules-and-guidelines)
-  - [Appealing within Comfora Discord Server](#appealing-within-comfora-discord-server)
+  - [Appealing moderation actions (or cases)](#appealing-moderation-actions-or-cases)
 
 ## Acceptance of Community Guidelines
 
@@ -22,4 +22,4 @@ Comfora Community Guidelines *(or CCG)* is designed to protect community members
 
 1. **Be Respectful**: Treat all community members with respect regardless of political motives, ideas, and or beliefs.
 
-## Appealing within Comfora Discord Server
+## Appealing moderation actions (or cases)
